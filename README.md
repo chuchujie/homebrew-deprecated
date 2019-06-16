@@ -14,6 +14,7 @@ brew tap exolnet/homebrew-deprecated
 
 ```bash
 brew install <formula>
+brew info php@7.0
 ```
 
 See [Formula](Formula) directory for available formulae.
